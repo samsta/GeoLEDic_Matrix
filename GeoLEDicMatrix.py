@@ -5,6 +5,9 @@ from functools import partial
 
 import Live
 import MidiRemoteScript
+from _Framework.ControlSurface import ControlSurface
+
+
 g_logger = None
 DEBUG = False
 
